@@ -5,7 +5,7 @@ Bu araç, test/etik güvenlik çalışmaları için hedefe çoklu `GET` istekler
 
 >  **UYARI:** Bu yazılım sadece eğitim, test ve izinli güvenlik analizleri içindir. İzinsiz kullanımlar Türk Ceza Kanunu'na göre suçtur.
 # indirmek için
-> git clone git clone https://github.com/canyilmaz959/DoS_Attacker.git
+> git clone https://github.com/canyilmaz959/DoS_Attacker.git
 
 ---
 
