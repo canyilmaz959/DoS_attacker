@@ -446,7 +446,7 @@ while True:
         break
     else:
         print(Fore.RED + "----------------------------------------------------------------------")
-        print(Fore.RED + "Geçersiz seçim! Lütfen 1, 2 veya 3 girin.")
+        print(Fore.RED + "Geçersiz seçim! Lütfen listeden seçin.")
         print(Fore.RED + "---------------------------------------------------------------------")
         time.sleep(2)
         
