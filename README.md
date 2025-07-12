@@ -36,7 +36,7 @@ pip install colorama requests
 
 Script’i çalıştırmak için:
 
-Dosyanın indirildiği dizine gidip
+cd DoS_attacker
 
 python3 DoS_attacker.py
 
