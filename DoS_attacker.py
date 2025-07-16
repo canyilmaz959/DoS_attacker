@@ -479,3 +479,9 @@ while True:
         time.sleep(2)
         
         continue
+
+
+
+
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2023 [can yılmaz]
